@@ -1,0 +1,1 @@
+import{aE as n,aF as e}from"./index-BfVS1IZv.js";function p(r){return n(r)||e(r)}function u(r,o,a,...t){return n(r)?o.apply(void 0,t):r.isWebMercator?a.apply(void 0,t):null}const c=1e5;export{c as p,p as r,u as t};

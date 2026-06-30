@@ -1,0 +1,1 @@
+import{br as o,c$ as i,bQ as r}from"./index-BfVS1IZv.js";function t(n){return typeof n=="object"&&n!=null&&"loaded"in n&&n.loaded===!0&&"type"in n}function a(n){return!(!t(n)||!o(n)?.operations?.supportsEditing||"editingEnabled"in n&&!i(n)||r(n))}export{a as e};

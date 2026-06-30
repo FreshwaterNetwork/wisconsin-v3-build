@@ -1,0 +1,1 @@
+import{ie as e,bI as a,as as o}from"./index-BfVS1IZv.js";function s(r){if(!r)return[];let t=e(r)?[r]:a.isCollection(r)?r.toArray():Array.isArray(r)?r:[];return t=t?.filter(o),(t?.length??0)===0?[]:t}export{s as i};
