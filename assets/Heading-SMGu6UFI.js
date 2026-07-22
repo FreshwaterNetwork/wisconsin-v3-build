@@ -1,1 +1,0 @@
-import{H as o,bT as s,a3 as l}from"./index-BfVS1IZv.js";import{e as c}from"./globalCss-IQwl89Q2.js";function h({level:e,class:n,...t},i){const r=a(e);return o(`h${r}`,{...t,"aria-level":String(r),class:s(c.heading,n),role:"heading"},i)}function a(e){return l(Math.ceil(e),1,6)}function m(e,n=1){return a(e+n)}export{h as e,m as n};

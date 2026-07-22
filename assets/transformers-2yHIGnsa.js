@@ -1,1 +1,0 @@
-const e={point:n=>n.type==="point"?n:n.type==="polygon"||n.type==="polyline"?n.extent?.center??null:null,polygon:n=>n.type==="polygon"?n:null,polyline:n=>n.type==="polyline"?n:null};export{e as default};

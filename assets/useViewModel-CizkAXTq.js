@@ -1,3 +1,0 @@
-import{l as r}from"./index-BfVS1IZv.js";import{p as e}from"./proxyExports-Cdzj7WL_-BxSzWLaE.js";import{A as i}from"./index-BgpfvO5A.js";import{d as n}from"./useView-D858Znrc.js";/*! All material copyright Esri, All Rights Reserved, unless otherwise specified.
-See https://js.arcgis.com/4.33/esri/copyright.txt for details.
-v4.33.11 */const u=(s,o)=>t=>m(t,s);class p extends i{#o=void 0;constructor(o,t){super(o,t),new n(this.component)}hostLoad(){this.#o=r(()=>this.component.el.view,o=>{this.instance.view=o,this.instance.map=o?.map},{sync:!0,initial:!0})}hostDestroy(){this.#o?.remove(),super.hostDestroy()}}const m=e(p);export{u as v};

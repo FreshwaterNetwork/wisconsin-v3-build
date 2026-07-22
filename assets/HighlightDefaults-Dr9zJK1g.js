@@ -1,1 +1,0 @@
-import{k as e}from"./index-BfVS1IZv.js";const l=new e("cyan"),n=1,o=.25,r=new e("black"),t=.4,w=.2,c=.25,m="default",p="temporary",y=new e("yellow"),f=8;export{w as a,m as c,l as e,o as l,p as m,r as n,y as p,n as r,t,c as w,f as y};

@@ -1,1 +1,0 @@
-import{g as r}from"./Intersector-CHiTWa79.js";import{i as e}from"./IntersectorInterfaces-sN0034Y8.js";function p(t){const o=new r(t);return o.options.store=e.MIN,o.options.excludeLabels=!0,o}export{p as o};

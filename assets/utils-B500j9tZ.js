@@ -1,1 +1,0 @@
-import{cT as m,cU as a}from"./index-BfVS1IZv.js";function s(r){return{geometryType:m(r[0]),geometries:r.map(t=>t.toJSON())}}function f(r,t,o){const n=a(t);return r.map(c=>{const e=n.fromJSON(c);return e.spatialReference=o,e})}export{f as o,s as r};

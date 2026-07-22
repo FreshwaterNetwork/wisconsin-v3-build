@@ -1,1 +1,0 @@
-import{e as r}from"./DefaultUI-D9VaS9UT.js";import{r as e}from"./DefaultVertexAttributeLayouts-C2N6gGaK.js";class o extends e{_createTransforms(){return{displayViewScreenMat3:r(),tileMat3:r()}}}export{o as t};
